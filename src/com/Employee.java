@@ -1,4 +1,4 @@
-package com.kakaotech.study;
+package com;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.kakaotech.study;
+package com;
 
 public class Chef extends Employee {
     //필드

@@ -1,4 +1,4 @@
-package com.kakaotech.study;
+package com;
 
 public class PartTimeFloor extends Floor{
     //필드

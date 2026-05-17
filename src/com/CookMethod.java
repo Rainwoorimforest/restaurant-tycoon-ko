@@ -1,4 +1,4 @@
-package com.kakaotech.study;
+package com;
 
 interface CookMethod {
     void cook(int cookAmount);

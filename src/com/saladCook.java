@@ -1,4 +1,4 @@
-package com.kakaotech.study;
+package com;
 
 public class saladCook implements CookMethod {
     @Override

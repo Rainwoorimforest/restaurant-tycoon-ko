@@ -1,4 +1,4 @@
-package com.kakaotech.study;
+package com;
 // 같은 패키지면 다른 클래스를 import 안해도 된다.
 import java.util.HashMap;
 import java.util.Scanner;
